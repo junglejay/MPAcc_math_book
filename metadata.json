@@ -1,0 +1,6 @@
+{
+  "name": "MPAcc 199 数学全考点公式宝典",
+  "description": "管理类联考（MPAcc/MBA/MPA）199数学完整公式百科、考点精讲、互动推演实验室与抽背自测系统，涵盖算术、代数、数列、几何、数据分析、应用题及条件充分性判断。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
